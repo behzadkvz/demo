@@ -2,7 +2,11 @@ xxxxxxxxx
 xxxxxxxxx
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ipsum
 =======
 xxxxxxxx s
+>>>>>>> lorem
+=======
+xxxxxxxx sx
 >>>>>>> lorem
