@@ -1,15 +1,1 @@
-xxxxxxxxx
-xxxxxxxxx
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-ipsum
-=======
-xxxxxxxx s
->>>>>>> lorem
-=======
-xxxxxxxx sx
->>>>>>> lorem
-=======
->>>>>>> d2199a751731df7e6a65cd620c770295b63960b7
+112344
