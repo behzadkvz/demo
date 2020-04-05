@@ -1,7 +1,1 @@
-xxxxxxxxx
-xxxxxxxxx
-
-<<<<<<< HEAD
-xxxxxxxx sxxxx
-=======
->>>>>>> da8547fcbeccbf542244ea3e6e94d25cb9f2cf1a
+aaaaAAAA
