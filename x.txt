@@ -1,4 +1,8 @@
 xxxxxxxxx
 xxxxxxxxx
 
+<<<<<<< HEAD
 ipsum
+=======
+xxxxxxxx s
+>>>>>>> lorem
